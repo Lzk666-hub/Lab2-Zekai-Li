@@ -1,2 +1,5 @@
 # Lab2-Zekai-Li
-#Pock
+##Pock
+-Display macOS Dock in Touch Bar
+-Control strip
+-widgets
